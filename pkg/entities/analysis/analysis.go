@@ -20,7 +20,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/ZupIT/horusec-devkit/pkg/enums/analysis"
+	"github.com/Fotkurz/horusec-devkit/pkg/enums/analysis"
 )
 
 //nolint:lll // notations need more than 130 characters

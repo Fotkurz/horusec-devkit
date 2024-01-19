@@ -20,9 +20,9 @@ import (
 	"github.com/go-chi/chi"
 	httpSwagger "github.com/swaggo/http-swagger"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/swagger/enums"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/env"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/swagger/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/env"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 type ISwagger interface {

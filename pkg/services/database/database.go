@@ -22,10 +22,10 @@ import (
 	"gorm.io/gorm"
 	gormLogger "gorm.io/gorm/logger"
 
-	databaseConfig "github.com/ZupIT/horusec-devkit/pkg/services/database/config"
-	"github.com/ZupIT/horusec-devkit/pkg/services/database/enums"
-	"github.com/ZupIT/horusec-devkit/pkg/services/database/response"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	databaseConfig "github.com/Fotkurz/horusec-devkit/pkg/services/database/config"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/database/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/database/response"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 type (

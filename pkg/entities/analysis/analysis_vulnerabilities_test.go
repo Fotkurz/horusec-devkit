@@ -21,7 +21,7 @@ import (
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ZupIT/horusec-devkit/pkg/entities/vulnerability"
+	"github.com/Fotkurz/horusec-devkit/pkg/entities/vulnerability"
 )
 
 func TestGetTableAnalysisVulnerabilities(t *testing.T) {

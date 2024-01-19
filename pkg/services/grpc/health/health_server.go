@@ -19,7 +19,7 @@ import (
 
 	"google.golang.org/grpc/health/grpc_health_v1"
 
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 type CheckServer struct{}

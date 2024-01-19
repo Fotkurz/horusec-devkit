@@ -23,7 +23,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger/enums"
 )
 
 func TestLogPanic(t *testing.T) {

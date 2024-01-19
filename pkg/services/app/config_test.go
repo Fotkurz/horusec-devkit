@@ -21,8 +21,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/grpc"
 
-	"github.com/ZupIT/horusec-devkit/pkg/enums/auth"
-	"github.com/ZupIT/horusec-devkit/pkg/services/grpc/auth/proto"
+	"github.com/Fotkurz/horusec-devkit/pkg/enums/auth"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/grpc/auth/proto"
 )
 
 func TestSetConnections(t *testing.T) {

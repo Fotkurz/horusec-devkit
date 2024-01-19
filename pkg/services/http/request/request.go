@@ -23,9 +23,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/http/request/entities"
-	"github.com/ZupIT/horusec-devkit/pkg/services/http/request/enums"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/http/request/entities"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/http/request/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 type IRequest interface {

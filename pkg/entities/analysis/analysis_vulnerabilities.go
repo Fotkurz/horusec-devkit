@@ -19,7 +19,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/ZupIT/horusec-devkit/pkg/entities/vulnerability"
+	"github.com/Fotkurz/horusec-devkit/pkg/entities/vulnerability"
 )
 
 //nolint:lll,revive // notations need more than 130 characters and struct used on gorm

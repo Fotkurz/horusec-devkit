@@ -2,18 +2,18 @@
     <img src="assets/horusec_logo.png" alt="logo_header" width="65%" style="max-width:100%;"/></a></p>
 
 <p align="center">
-    <a href="https://github.com/ZupIT/horusec-devkit/pulse" alt="activity">
-        <img src="https://img.shields.io/github/commit-activity/m/ZupIT/horusec-devkit"/></a>
-    <a href="https://github.com/ZupIT/horusec-devkit/graphs/contributors" alt="contributors">
-        <img src="https://img.shields.io/github/contributors/ZupIT/horusec-devkit"/></a>
-    <a href="https://github.com/ZupIT/horusec-devkit/actions/workflows/lint.yml" alt="lint">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/horusec-devkit/Lint?label=lint"/></a>
-    <a href="https://github.com/ZupIT/horusec-devkit/actions/workflows/tests.yml" alt="test">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/horusec-devkit/Test?label=test"/></a>
-    <a href="https://github.com/ZupIT/horusec-devkit/actions/workflows/security.yml" alt="security">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/horusec-devkit/Security?label=security"/></a>
-    <a href="https://github.com/ZupIT/horusec-devkit/actions/workflows/coverage.yml" alt="coverage">
-        <img src="https://img.shields.io/github/workflow/status/ZupIT/horusec-devkit/Coverage?label=coverage"/></a>
+    <a href="https://github.com/Fotkurz/horusec-devkit/pulse" alt="activity">
+        <img src="https://img.shields.io/github/commit-activity/m/Fotkurz/horusec-devkit"/></a>
+    <a href="https://github.com/Fotkurz/horusec-devkit/graphs/contributors" alt="contributors">
+        <img src="https://img.shields.io/github/contributors/Fotkurz/horusec-devkit"/></a>
+    <a href="https://github.com/Fotkurz/horusec-devkit/actions/workflows/lint.yml" alt="lint">
+        <img src="https://img.shields.io/github/workflow/status/Fotkurz/horusec-devkit/Lint?label=lint"/></a>
+    <a href="https://github.com/Fotkurz/horusec-devkit/actions/workflows/tests.yml" alt="test">
+        <img src="https://img.shields.io/github/workflow/status/Fotkurz/horusec-devkit/Test?label=test"/></a>
+    <a href="https://github.com/Fotkurz/horusec-devkit/actions/workflows/security.yml" alt="security">
+        <img src="https://img.shields.io/github/workflow/status/Fotkurz/horusec-devkit/Security?label=security"/></a>
+    <a href="https://github.com/Fotkurz/horusec-devkit/actions/workflows/coverage.yml" alt="coverage">
+        <img src="https://img.shields.io/github/workflow/status/Fotkurz/horusec-devkit/Coverage?label=coverage"/></a>
     <a href="https://opensource.org/licenses/Apache-2.0" alt="license">
         <img src="https://img.shields.io/badge/license-Apache%202-blue"/></a>
 </p>
@@ -67,11 +67,11 @@ For more information about Horusec, please check out the [**documentation**](htt
 
 ## **Issues**
 
-To open or track an issue for this project, in order to better coordinate your discussions, we recommend that you use the [**Issues tab**](https://github.com/ZupIT/horusec/issues) in the main [**Horusec**](https://github.com/ZupIT/horusec) repository.
+To open or track an issue for this project, in order to better coordinate your discussions, we recommend that you use the [**Issues tab**](https://github.com/Fotkurz/horusec/issues) in the main [**Horusec**](https://github.com/Fotkurz/horusec) repository.
 
 ## **Contributing**
 
-If you want to contribute to this repository, access our [**Contributing Guide**](https://github.com/ZupIT/horusec-devkit/blob/main/CONTRIBUTING.md). 
+If you want to contribute to this repository, access our [**Contributing Guide**](https://github.com/Fotkurz/horusec-devkit/blob/main/CONTRIBUTING.md). 
 
 ### **Developer Certificate of Origin - DCO**
 
@@ -105,7 +105,7 @@ Signed-off-by: Name < e-mail address >
 For this method, your name and e-mail must be the same registered on your GitHub account.
 
 ## **License**
-[**Apache License 2.0**](https://github.com/ZupIT/horusec-devkit/blob/main/LICENSE).
+[**Apache License 2.0**](https://github.com/Fotkurz/horusec-devkit/blob/main/LICENSE).
 
 ## **Community**
 Do you have any question about Horusec? Let's chat in our [**forum**](https://forum.zup.com.br/).

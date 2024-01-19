@@ -20,8 +20,8 @@ import (
 
 	"github.com/stretchr/testify/mock"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/http/request/entities"
-	mockUtils "github.com/ZupIT/horusec-devkit/pkg/utils/mock"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/http/request/entities"
+	mockUtils "github.com/Fotkurz/horusec-devkit/pkg/utils/mock"
 )
 
 type Mock struct {

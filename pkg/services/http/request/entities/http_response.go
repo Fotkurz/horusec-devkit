@@ -19,8 +19,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/http/request/enums"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/http/request/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 type HTTPResponse struct {

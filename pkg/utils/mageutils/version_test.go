@@ -294,7 +294,7 @@ func TestVersion(t *testing.T) {
 
 	t.Run("should return return no error when executing from actual repository", func(t *testing.T) {
 		_ = os.Setenv(envRepositoryName, "horusec")
-		_ = os.Setenv(envRepositoryOrg, "ZupIT")
+		_ = os.Setenv(envRepositoryOrg, "Fotkurz")
 
 		assert.NoError(t, UpVersions("p"))
 	})

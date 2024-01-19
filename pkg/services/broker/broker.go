@@ -18,10 +18,10 @@ import (
 	"github.com/pkg/errors"
 	"github.com/streadway/amqp"
 
-	brokerConfig "github.com/ZupIT/horusec-devkit/pkg/services/broker/config"
-	"github.com/ZupIT/horusec-devkit/pkg/services/broker/enums"
-	brokerPacket "github.com/ZupIT/horusec-devkit/pkg/services/broker/packet"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	brokerConfig "github.com/Fotkurz/horusec-devkit/pkg/services/broker/config"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/broker/enums"
+	brokerPacket "github.com/Fotkurz/horusec-devkit/pkg/services/broker/packet"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 type IBroker interface {

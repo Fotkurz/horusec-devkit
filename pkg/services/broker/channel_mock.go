@@ -18,7 +18,7 @@ import (
 	"github.com/streadway/amqp"
 	"github.com/stretchr/testify/mock"
 
-	mockUtils "github.com/ZupIT/horusec-devkit/pkg/utils/mock"
+	mockUtils "github.com/Fotkurz/horusec-devkit/pkg/utils/mock"
 )
 
 type channelMock struct {

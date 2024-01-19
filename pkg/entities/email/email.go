@@ -17,7 +17,7 @@ package email
 import (
 	"encoding/json"
 
-	"github.com/ZupIT/horusec-devkit/pkg/enums/email"
+	"github.com/Fotkurz/horusec-devkit/pkg/enums/email"
 )
 
 type Message struct {

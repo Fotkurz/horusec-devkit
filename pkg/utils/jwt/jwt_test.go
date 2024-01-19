@@ -24,7 +24,7 @@ import (
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ZupIT/horusec-devkit/pkg/utils/jwt/entities"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/jwt/entities"
 )
 
 func testHandler(w http.ResponseWriter, r *http.Request) {

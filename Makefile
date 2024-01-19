@@ -5,7 +5,7 @@ GOLANG_CI_LINT ?= golangci-lint
 GO_IMPORTS ?= goimports
 GO_FUMPT ?= gofumpt
 GO_GCI ?= gci
-GO_IMPORTS_LOCAL ?= github.com/ZupIT/horusec-devkit
+GO_IMPORTS_LOCAL ?= github.com/Fotkurz/horusec-devkit
 HORUSEC ?= horusec
 COMPOSE_FILE_NAME ?= docker-compose.yaml
 DOCKER_COMPOSE ?= docker-compose
@@ -35,7 +35,7 @@ format: install-format-dependencies
 
 security:
     ifeq (, $(shell which $(HORUSEC)))
-		curl -fsSL https://raw.githubusercontent.com/ZupIT/horusec/master/deployments/scripts/install.sh | bash -s latest
+		curl -fsSL https://raw.githubusercontent.com/Fotkurz/horusec/master/deployments/scripts/install.sh | bash -s latest
 		$(HORUSEC) start -p="./" -e="true"
     else
 		$(HORUSEC) start -p="./" -e="true"

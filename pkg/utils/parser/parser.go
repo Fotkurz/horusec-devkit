@@ -21,8 +21,8 @@ import (
 
 	"github.com/google/uuid"
 
-	brokerPacket "github.com/ZupIT/horusec-devkit/pkg/services/broker/packet"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/parser/enums"
+	brokerPacket "github.com/Fotkurz/horusec-devkit/pkg/services/broker/packet"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/parser/enums"
 )
 
 func ParseBodyToEntity(body io.ReadCloser, entityPointer interface{}) error {

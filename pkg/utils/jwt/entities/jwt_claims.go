@@ -20,7 +20,7 @@ import (
 	"github.com/golang-jwt/jwt"
 	"github.com/google/uuid"
 
-	"github.com/ZupIT/horusec-devkit/pkg/enums/ozzovalidation"
+	"github.com/Fotkurz/horusec-devkit/pkg/enums/ozzovalidation"
 )
 
 type JWTClaims struct {

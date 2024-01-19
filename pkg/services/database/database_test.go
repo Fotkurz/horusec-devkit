@@ -24,8 +24,8 @@ import (
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/database/config"
-	"github.com/ZupIT/horusec-devkit/pkg/services/database/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/database/config"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/database/enums"
 )
 
 type testEntity struct {

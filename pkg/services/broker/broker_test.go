@@ -21,8 +21,8 @@ import (
 	"github.com/streadway/amqp"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/broker/config"
-	"github.com/ZupIT/horusec-devkit/pkg/services/broker/packet"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/broker/config"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/broker/packet"
 )
 
 func getTestConfig() *config.Config {

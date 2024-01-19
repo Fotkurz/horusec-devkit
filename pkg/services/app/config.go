@@ -17,10 +17,10 @@ package app
 import (
 	"context"
 
-	"github.com/ZupIT/horusec-devkit/pkg/enums/auth"
-	"github.com/ZupIT/horusec-devkit/pkg/services/app/enums"
-	"github.com/ZupIT/horusec-devkit/pkg/services/grpc/auth/proto"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	"github.com/Fotkurz/horusec-devkit/pkg/enums/auth"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/app/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/grpc/auth/proto"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 type IConfig interface {

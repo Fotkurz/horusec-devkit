@@ -18,9 +18,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	httpEntities "github.com/ZupIT/horusec-devkit/pkg/utils/http/entities"
-	httpEnums "github.com/ZupIT/horusec-devkit/pkg/utils/http/enums"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	httpEntities "github.com/Fotkurz/horusec-devkit/pkg/utils/http/entities"
+	httpEnums "github.com/Fotkurz/horusec-devkit/pkg/utils/http/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 func StatusOK(w http.ResponseWriter, content interface{}) {

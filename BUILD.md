@@ -25,7 +25,7 @@ Horusec-DevKit is the repository where there are some abstractions that the Horu
 You can use it as a package by running the following command in your Golang project:
 
 ```bash
-go get github.com/ZupIT/horusec-devkit
+go get github.com/Fotkurz/horusec-devkit
 ```
 
 ### **Style Guide**
@@ -76,7 +76,7 @@ make coverage
 
 ### **Security**
 
-We use the latest version of [**Horusec-CLI**](https://github.com/ZupIT/horusec) to maintain the security of our source code. Through the command below, you can perform this verification in the project:
+We use the latest version of [**Horusec-CLI**](https://github.com/Fotkurz/horusec) to maintain the security of our source code. Through the command below, you can perform this verification in the project:
 
 ```bash
 make security

@@ -25,10 +25,10 @@ import (
 	"github.com/golang-jwt/jwt"
 	"github.com/google/uuid"
 
-	"github.com/ZupIT/horusec-devkit/pkg/utils/env"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/jwt/entities"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/jwt/enums"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/env"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/jwt/entities"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/jwt/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 func CreateToken(tokenData *entities.TokenData, permissions []string) (string, time.Time, error) {

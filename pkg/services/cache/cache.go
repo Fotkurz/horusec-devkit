@@ -20,7 +20,7 @@ import (
 
 	"github.com/patrickmn/go-cache"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/cache/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/cache/enums"
 )
 
 type ICache interface {

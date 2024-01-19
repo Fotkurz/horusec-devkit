@@ -19,9 +19,9 @@ import (
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/credentials/insecure"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/grpc/enums"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/env"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/grpc/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/env"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 func NewAuthGRPCConnection() grpc.ClientConnInterface {

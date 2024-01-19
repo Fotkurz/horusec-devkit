@@ -17,7 +17,7 @@ package app
 import (
 	"github.com/stretchr/testify/mock"
 
-	"github.com/ZupIT/horusec-devkit/pkg/enums/auth"
+	"github.com/Fotkurz/horusec-devkit/pkg/enums/auth"
 )
 
 type Mock struct {

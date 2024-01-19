@@ -22,10 +22,10 @@ This is Horusec contributing guide. Please read the following sections to learn 
 ## **Before you contribute**
 
 ### **Code of Conduct**
-Please follow the [**Code of Conduct**](https://github.com/ZupIT/horusec/blob/main/CODE_OF_CONDUCT.md) in all your interactions with our project.
+Please follow the [**Code of Conduct**](https://github.com/Fotkurz/horusec/blob/main/CODE_OF_CONDUCT.md) in all your interactions with our project.
 
 ### **Legal**
-- Horusec is licensed over [**ASF - Apache License**](https://github.com/ZupIT/horusec/blob/main/LICENSE), version 2, so new files must have the ASF version 2 header. For more information, please check out [**Apache license**](https://www.apache.org/licenses/LICENSE-2.0).
+- Horusec is licensed over [**ASF - Apache License**](https://github.com/Fotkurz/horusec/blob/main/LICENSE), version 2, so new files must have the ASF version 2 header. For more information, please check out [**Apache license**](https://www.apache.org/licenses/LICENSE-2.0).
 
 - All contributions are subject to the [**Developer Certificate of Origin (DCO)**](https://developercertificate.org). 
 When you commit, use the ```**-s** ``` option to include the Signed-off-by line at the end of the commit log message.
@@ -123,17 +123,17 @@ go tool cover -html=coverage.out # Open coverage status in your browser
 #### **Repositories**
 Horusec has other repositories and you can check the README for each one of them: 
 
-- [**Horusec**](https://github.com/ZupIT/horusec)
-- [**Documentation**](https://github.com/ZupIT/horusec-docs)
-- [**Engine**](https://github.com/ZupIT/horusec-engine)
-- [**Operator**](https://github.com/ZupIT/horusec-operator)
-- [**Platform**](https://github.com/ZupIT/horusec-platform)
-- [**VSCode plugin**](https://github.com/ZupIT/horusec-vscode-plugin)
-- [**Horusec C4-Model**](https://github.com/ZupIT/horusec-c4model)
-- [**Vulnerabilities**](https://github.com/ZupIT/horusec-examples-vulnerabilities)
+- [**Horusec**](https://github.com/Fotkurz/horusec)
+- [**Documentation**](https://github.com/Fotkurz/horusec-docs)
+- [**Engine**](https://github.com/Fotkurz/horusec-engine)
+- [**Operator**](https://github.com/Fotkurz/horusec-operator)
+- [**Platform**](https://github.com/Fotkurz/horusec-platform)
+- [**VSCode plugin**](https://github.com/Fotkurz/horusec-vscode-plugin)
+- [**Horusec C4-Model**](https://github.com/Fotkurz/horusec-c4model)
+- [**Vulnerabilities**](https://github.com/Fotkurz/horusec-examples-vulnerabilities)
 
 ### **First contribution**
-Contributing to a new feature is only allowed in the [**main repository**](https://github.com/ZupIT/horusec).
+Contributing to a new feature is only allowed in the [**main repository**](https://github.com/Fotkurz/horusec).
 
 Before contributing to this repository, please discuss the changes you wish to make via e-mail or [**forum**](https://forum.zup.com.br/c/en/horusec/14). 
 
@@ -143,10 +143,10 @@ If you want to add an improvement, a new feature or bugfix, follow the steps to 
 **Step 1:** Make sure your branch is based on main;
 
 **Step 2:** When opening an issue, choose a template to answer the questions regarding what you want to contribute: 
-- [**Bug Report**](https://github.com/ZupIT/horusec/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
-- [**Feature request**](https://github.com/ZupIT/horusec/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
-- [**Improvement**](https://github.com/ZupIT/horusec/blob/main/.github/ISSUE_TEMPLATE/improvement.md)
-- [**Support request**](https://github.com/ZupIT/horusec/blob/main/.github/ISSUE_TEMPLATE/support_request.md)
+- [**Bug Report**](https://github.com/Fotkurz/horusec/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+- [**Feature request**](https://github.com/Fotkurz/horusec/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+- [**Improvement**](https://github.com/Fotkurz/horusec/blob/main/.github/ISSUE_TEMPLATE/improvement.md)
+- [**Support request**](https://github.com/Fotkurz/horusec/blob/main/.github/ISSUE_TEMPLATE/support_request.md)
 
 **Step 3:** Make your changes and open a GitHub pull request;
 

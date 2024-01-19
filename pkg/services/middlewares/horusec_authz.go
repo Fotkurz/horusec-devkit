@@ -23,13 +23,13 @@ import (
 	"github.com/google/uuid"
 	"google.golang.org/grpc"
 
-	authEnums "github.com/ZupIT/horusec-devkit/pkg/enums/auth"
-	"github.com/ZupIT/horusec-devkit/pkg/services/grpc/auth/proto"
-	"github.com/ZupIT/horusec-devkit/pkg/services/middlewares/enums"
-	httpUtil "github.com/ZupIT/horusec-devkit/pkg/utils/http"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/jwt"
-	jwtEnums "github.com/ZupIT/horusec-devkit/pkg/utils/jwt/enums"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger"
+	authEnums "github.com/Fotkurz/horusec-devkit/pkg/enums/auth"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/grpc/auth/proto"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/middlewares/enums"
+	httpUtil "github.com/Fotkurz/horusec-devkit/pkg/utils/http"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/jwt"
+	jwtEnums "github.com/Fotkurz/horusec-devkit/pkg/utils/jwt/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger"
 )
 
 type IAuthzMiddleware interface {

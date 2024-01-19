@@ -22,8 +22,8 @@ import (
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 
-	vulnerabilityEntities "github.com/ZupIT/horusec-devkit/pkg/entities/vulnerability"
-	analysisEnum "github.com/ZupIT/horusec-devkit/pkg/enums/analysis"
+	vulnerabilityEntities "github.com/Fotkurz/horusec-devkit/pkg/entities/vulnerability"
+	analysisEnum "github.com/Fotkurz/horusec-devkit/pkg/enums/analysis"
 )
 
 func TestGetTableAnalysis(t *testing.T) {

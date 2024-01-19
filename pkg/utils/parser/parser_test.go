@@ -24,9 +24,9 @@ import (
 	"github.com/streadway/amqp"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ZupIT/horusec-devkit/pkg/entities/cli"
-	"github.com/ZupIT/horusec-devkit/pkg/services/broker/packet"
-	"github.com/ZupIT/horusec-devkit/pkg/utils/parser/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/entities/cli"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/broker/packet"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/parser/enums"
 )
 
 func TestParseBodyToEntity(t *testing.T) {

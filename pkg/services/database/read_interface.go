@@ -15,7 +15,7 @@
 package database
 
 import (
-	"github.com/ZupIT/horusec-devkit/pkg/services/database/response"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/database/response"
 )
 
 type IDatabaseRead interface {

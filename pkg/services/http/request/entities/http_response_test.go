@@ -22,7 +22,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/http/request/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/http/request/enums"
 )
 
 func TestGetBodyBytes(t *testing.T) {

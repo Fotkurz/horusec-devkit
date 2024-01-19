@@ -22,7 +22,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/ZupIT/horusec-devkit/pkg/utils/logger/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/utils/logger/enums"
 )
 
 func LogPanic(msg string, err error, args ...map[string]interface{}) {

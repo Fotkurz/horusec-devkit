@@ -20,7 +20,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ZupIT/horusec-devkit/pkg/services/database/enums"
+	"github.com/Fotkurz/horusec-devkit/pkg/services/database/enums"
 )
 
 func TestNewResponse(t *testing.T) {
